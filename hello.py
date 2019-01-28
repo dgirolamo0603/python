@@ -1,1 +1,5 @@
 print("Привет мир")
+print("Hello word")
+print("Привет мир")
+print("Привет мир")
+print("Привет мир")
